@@ -1,10 +1,11 @@
 ## Hi I'm Govind J S ✨
 
-🎓BTech Computer Science and Engineering student<br>
-🏫College of Engineering, Chengannur<br>
-📌I'm working as a Designer in IEDC BOOTCAMP CEC and GTECH MULEARN CHN<br>
-📌Python Enthusiast<br>
-📌Front-End Developer<br>
+BTech Computer Science and Engineering student<br>
+College of Engineering, Chengannur<br>
+Creative and Innovation Lead in IEDC BOOTCAMP CEC<br>
+Design Lead at MuLearn CHN<br>
+Python Enthusiast<br>
+Front-End Developer<br>
 
 
 ## 🌐 Socials:
