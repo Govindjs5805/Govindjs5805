@@ -2,11 +2,9 @@
 
 BTech Computer Science and Engineering student<br>
 College of Engineering, Chengannur<br>
+Machine Learning Intern at FlyRank AI<br>
 Creative and Innovation Lead in IEDC BOOTCAMP CEC<br>
 Design Lead at MuLearn CHN<br>
-Python Enthusiast<br>
-Front-End Developer<br>
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m3rtin.xx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/govind-j-s-873aba290) 
