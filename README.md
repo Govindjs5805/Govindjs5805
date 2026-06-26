@@ -6,7 +6,7 @@ Creative and Innovation Lead in IEDC BOOTCAMP CEC<br>
 Design Lead at MuLearn CHN<br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m3rtin.xx) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m4rtin.xx) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/govindjs5805)
 
 # 💻 Tech Stack:
