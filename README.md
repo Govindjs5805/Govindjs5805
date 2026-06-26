@@ -2,7 +2,6 @@
 
 BTech Computer Science and Engineering student<br>
 College of Engineering, Chengannur<br>
-Machine Learning Intern at FlyRank AI<br>
 Creative and Innovation Lead in IEDC BOOTCAMP CEC<br>
 Design Lead at MuLearn CHN<br>
 
